@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="../webapp/WEB-INF/src/css/index.css">
+    <link rel="stylesheet" href="./WEB-INF/src/css/index.css">
   </head>
   <body >
     <div class="container">
