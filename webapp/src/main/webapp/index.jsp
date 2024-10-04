@@ -7,7 +7,7 @@
     <title>Document</title>
     <style>
       body{
-        background-image: url("../images/wave-haikei.png");
+        background-image: url('./WEB-INF/src/images/wave-haikei.png');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center; 
